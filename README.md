@@ -14,6 +14,8 @@ For data, I took advantage of the absurd number of photos I've taken of my cat, 
 	1. Example of using an off-the-shelf CNN (ResNet50)
 	2. Building a custom Meow classifier via transfer learning (VGG16)
 
+## Examples
+
 Here's a live demo of my Meow face detector (dlib):
 ![meow_detected](https://user-images.githubusercontent.com/26487650/31292982-64c44b90-aa8a-11e7-8c1e-bd716e4f2638.gif)
 
